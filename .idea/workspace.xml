@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f52e4360-3ee3-460f-9d96-e40f1c415e3e" name="Changes" comment="feat(): Podaj imie scanner">
-      <change afterPath="$PROJECT_DIR$/src/Tablica.java" afterDir="false" />
+    <list default="true" id="f52e4360-3ee3-460f-9d96-e40f1c415e3e" name="Changes" comment="feat():Array swap">
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674856675147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat():Array swap">
+      <created>1674860621765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674860621765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,7 +81,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(): Podaj imie scanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(): Podaj imie scanner" />
+    <MESSAGE value="feat():Array swap" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat():Array swap" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
